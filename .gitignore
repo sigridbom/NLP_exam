@@ -5,3 +5,13 @@ data/__MACOSX
 data/matched_scripts
 data/matched_titles_scripts.csv
 bechdel_labels_old.ipynb
+
+
+data/1
+data/matched_scripts
+data/bechdel_labels.csv
+
+old_stuff
+
+
+.kaggle/kaggle.json

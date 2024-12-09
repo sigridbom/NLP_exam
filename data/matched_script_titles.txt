@@ -1,34 +1,32 @@
-Snow White and the Huntsman_1735898.txt
+Nosferatu_0013442.txt
+The Phantom of the Opera_0016220.txt
 Battleship Potemkin_0015648.txt
-It Follows_3235888.txt
+The Lost World_0016039.txt
 Metropolis_0017136.txt
-MASH_0066026.txt
+The Jazz Singer_0018037.txt
+The Passion of Joan of Arc_0019254.txt
+The Cocoanuts_0019777.txt
+The Last Flight_0022054.txt
 Grand Hotel_0022958.txt
 Freaks_0022913.txt
 Vampyr_0023649.txt
-Scarface_0086250.txt
 King Kong_0024216.txt
-Little Women_3281548.txt
-Alice in Wonderland_1014759.txt
 Duck Soup_0023969.txt
 It Happened One Night_0025316.txt
-Spitfire_5913184.txt
-Maniac_5580146.txt
-Anna Karenina_1781769.txt
-Fury_2713180.txt
-Conquest of the Planet of the Apes_0068408.txt
+Mr Deeds Goes to Town_0027996.txt
 Lost Horizon_0029162.txt
 Bringing Up Baby_0029947.txt
 Angels with Dirty Faces_0029870.txt
+The Wizard of Oz_0032138.txt
 Gone with the Wind_0031381.txt
 Stagecoach_0031971.txt
 Ninotchka_0031725.txt
-Jesse James Legend Outlaw Terrorist_0785015.txt
+Mr Smith Goes to Washington_0031679.txt
 Only Angels Have Wings_0031762.txt
 Rebecca_0032976.txt
+The Grapes of Wrath_0032551.txt
 His Girl Friday_0032599.txt
-Pride and Prejudice_1332374.txt
-Fantasia 2000_0120910.txt
+The Maltese Falcon_0033870.txt
 Citizen Kane_0033467.txt
 Meet John Doe_0033891.txt
 Casablanca_0034583.txt
@@ -36,185 +34,233 @@ Cat People_0034587.txt
 Saboteur_0035279.txt
 Saboteur_0035279.txt
 I Walked with a Zombie_0036027.txt
-Jane Eyre_1229822.txt
-Chinatown_0071315.txt
+The Life and Death of Colonel Blimp_0036112.txt
+The Seventh Victim_0036341.txt
 Arsenic and Old Lace_0036613.txt
 Double Indemnity_0036775.txt
 Isle of the Dead_0037820.txt
-Notorious_0472198.txt
+The Lost Weekend_0037884.txt
+The Big Sleep_0038355.txt
 Beauty and the Beast_0038348.txt
-Deception_0800240.txt
-Dressed to Kill_0080661.txt
-Great Expectations_0119223.txt
-Anna Karenina_1781769.txt
+It s a Wonderful Life_0038650.txt
+The Jolson Story_0038661.txt
+The Stranger_0038991.txt
+Mr Blandings Builds His Dream House_0040613.txt
+The Treasure of the Sierra Madre_0040897.txt
 Call Northside 777_0040202.txt
-Macbeth_10095582.txt
-Little Women_3281548.txt
-Mighty Joe Young_0120751.txt
+The Naked City_0040636.txt
+The Third Man_0041959.txt
+All the King s Men_0041113.txt
 All About Eve_0042192.txt
+Sunset Blvd_0043014.txt
 Harvey_0042546.txt
 Strangers on a Train_0044079.txt
-Alice in Wonderland_1014759.txt
+The African Queen_0043265.txt
+The Day the Earth Stood Still_0043456.txt
+The Thing from Another World_0044121.txt
 Quo Vadis_0043949.txt
+Singin in the Rain_0045152.txt
 High Noon_0044706.txt
 Forbidden Games_0043686.txt
 Stalag 17_0046359.txt
+The War of the Worlds_0046534.txt
 From Here to Eternity_0045793.txt
-Inferno_3062096.txt
+The Wild One_0047677.txt
 White Christmas_0047673.txt
 On the Waterfront_0047296.txt
 Rear Window_0047396.txt
 Sabrina_0047437.txt
-A Star Is Born_0075265.txt
+Seven Samurai_0047478.txt
 Salt of the Earth_0047443.txt
 To Catch a Thief_0048728.txt
+The Night of the Hunter_0048424.txt
+The Ladykillers_0048281.txt
 Rebel Without a Cause_0048545.txt
 Marty_0048356.txt
+Killer s Kiss_0048254.txt
 Bad Day at Black Rock_0047849.txt
+The Searchers_0049730.txt
+The Man Who Knew Too Much_0049470.txt
 Giant_0049261.txt
-12 Angry Men_0118528.txt
+The Seventh Seal_0050976.txt
 Sweet Smell of Success_0051036.txt
 An Affair to Remember_0050105.txt
 Witness for the Prosecution_0051201.txt
 Vertigo_0052357.txt
+The Vikings_0052365.txt
+Horror of Dracula_0051554.txt
 Some Like It Hot_0053291.txt
-A Bucket of Blood_0112594.txt
+North by Northwest_0053125.txt
 Anatomy of a Murder_0052561.txt
-House on Haunted Hill_0185371.txt
 Plan 9 from Outer Space_0052077.txt
 Spartacus_0054331.txt
+The Apartment_0053604.txt
 Psycho_0054215.txt
 Peeping Tom_0054167.txt
+The Time Machine_0054387.txt
+L Avventura_0053619.txt
+Breakfast at Tiffany s_0054698.txt
+The Hustler_0054997.txt
 Lawrence of Arabia_0056172.txt
 To Kill a Mockingbird_0056592.txt
+The Miracle Worker_0056241.txt
+The Great Escape_0057115.txt
 Charade_0056923.txt
+The Birds_0056869.txt
 From Russia with Love_0057076.txt
-Mary Poppins Returns_5028340.txt
-Zulu Dawn_0080180.txt
+Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb_0057012.txt
+A Hard Day s Night_0058182.txt
 Goldfinger_0058150.txt
+The Last Man on Earth_0058700.txt
+The Sound of Music_0059742.txt
 Doctor Zhivago_0059113.txt
-Alfie_0375173.txt
+The Battle of Algiers_0058946.txt
 Fantastic Voyage_0060397.txt
-Fahrenheit 451_0360556.txt
-Django Unchained_1853728.txt
 Cool Hand Luke_0061512.txt
+The Graduate_0061722.txt
 Bonnie and Clyde_0061418.txt
 You Only Live Twice_0062512.txt
-Casino Royale_0381061.txt
 In the Heat of the Night_0061811.txt
 Two for the Road_0062407.txt
 Planet of the Apes_0063442.txt
+The Producers_0063462.txt
+Rosemary s Baby_0063522.txt
+The Lion in Winter_0063227.txt
 Night of the Living Dead_0063350.txt
+The Swimmer_0063663.txt
 Women in Love_0066579.txt
 Butch Cassidy and the Sundance Kid_0064115.txt
 Midnight Cowboy_0064665.txt
-Zero Dark Thirty_1790885.txt
+The Wild Bunch_0065214.txt
 Five Easy Pieces_0065724.txt
 House of Dark Shadows_0065856.txt
+Count Dracula_0065569.txt
 Patton_0066206.txt
 Walkabout_0067959.txt
 THX 1138_0066434.txt
 A Clockwork Orange_0066921.txt
 Harold and Maude_0067185.txt
+The Last Picture Show_0067328.txt
 Escape from the Planet of the Apes_0067065.txt
+The French Connection_0067116.txt
+McCabe Mrs Miller_0067411.txt
 Duel_0067023.txt
 Klute_0067309.txt
 Get Carter_0067128.txt
-Macbeth_10095582.txt
+The Godfather_0068646.txt
 Deliverance_0068473.txt
 Cabaret_0068327.txt
-Sleuth_0857265.txt
+The Poseidon Adventure_0069113.txt
+The Getaway_0068638.txt
 Badlands_0069762.txt
+Don t Look Now_0069995.txt
+The Exorcist_0070047.txt
+The Sting_0070735.txt
 Paper Moon_0070510.txt
 American Graffiti_0069704.txt
-Robin Hood Prince of Thieves_0102798.txt
 Mean Streets_0070379.txt
 Blazing Saddles_0071230.txt
 Young Frankenstein_0072431.txt
 Dark Star_0069945.txt
 Chinatown_0071315.txt
-Black Christmas_0454082.txt
+The Texas Chain Saw Massacre_0072271.txt
+The Godfather Part II_0071562.txt
+The Parallax View_0071970.txt
 Lenny_0071746.txt
 Three Days of the Condor_0073802.txt
+One Flew Over the Cuckoo s Nest_0073486.txt
+The Rocky Horror Picture Show_0073629.txt
 Monty Python and the Holy Grail_0071853.txt
 Barry Lyndon_0072684.txt
-Jaws 2_0077766.txt
+Jaws_0073195.txt
 Dog Day Afternoon_0072890.txt
 Nashville_0073440.txt
 Mandingo_0073349.txt
 Carrie_0074285.txt
+The Omen_0075005.txt
+Logan s Run_0074812.txt
 Network_0074958.txt
 Taxi Driver_0075314.txt
-Rocky Balboa_0479143.txt
+Rocky_0075148.txt
 A Star Is Born_0075265.txt
 Silver Streak_0075223.txt
-Star Wars Ep 1 The Phantom Menace w Ryan Paul from Cold Callers Comedy Podcast_12764338.txt
+All the President s Men_0074119.txt
+Star Wars Episode IV A New Hope_0076759.txt
 Julia_0076245.txt
 Annie Hall_0075686.txt
-Suspiria_1034415.txt
-House of 1000 Corpses_0251736.txt
+The Goodbye Girl_0076095.txt
 Close Encounters of the Third Kind_0075860.txt
-Bad Boys for Life_1502397.txt
-Rabid_5628902.txt
 Days of Heaven_0077405.txt
+Damien Omen II_0077394.txt
 Dawn of the Dead_0077402.txt
-Superman III_0086393.txt
-Halloween 4 The Return of Michael Myers_0095271.txt
+Superman_0078346.txt
+The Deer Hunter_0077416.txt
 Midnight Express_0077928.txt
-I Spit on Your Grave_1242432.txt
-Battlestar Galactica_0407362.txt
 Jaws 2_0077766.txt
-Piranha 3D_0464154.txt
-Alien Covenant_2316204.txt
-Manhattan Murder Mystery_0107507.txt
+The Lord of the Rings_0077869.txt
+The Driver_0077474.txt
+Alien_0078748.txt
+The Warriors_0080120.txt
+Star Trek The Motion Picture_0079945.txt
 All That Jazz_0078754.txt
 Being There_0078841.txt
 Apocalypse Now_0078788.txt
-Mad Max 2 The Road Warrior_0082694.txt
-Hair Show_0382561.txt
+The Jerk_0079367.txt
+Kramer vs Kramer_0079417.txt
 Norma Rae_0079638.txt
+The Blues Brothers_0080455.txt
+Star Wars Episode V The Empire Strikes Back_0080684.txt
+9 to 5_0080319.txt
+Airplane_0080339.txt
+The Shining_0081505.txt
 Raging Bull_0081398.txt
+The Fog_0080749.txt
 Flash Gordon_0080745.txt
 Somewhere in Time_0081534.txt
-Superman III_0086393.txt
-Friday the 13th Part 2_0082418.txt
+Superman II_0081573.txt
+Coal Miner s Daughter_0080549.txt
 Ordinary People_0081283.txt
-Maniac_5580146.txt
 Popeye_0081353.txt
 Caddyshack_0080487.txt
 Raiders of the Lost Ark_0082971.txt
-Clash of the Titans_0800320.txt
 Southern Comfort_0083111.txt
 Escape from New York_0082340.txt
+The Great Muppet Caper_0082474.txt
 Time Bandits_0081633.txt
 Outland_0082869.txt
 An American Werewolf in London_0082010.txt
 Heavy Metal_0082509.txt
 Body Heat_0082089.txt
+The Evil Dead_0083907.txt
 Friday the 13th Part 2_0082418.txt
-Halloween III Season of the Witch_0085636.txt
+Halloween II_0082495.txt
+The Howling_0082533.txt
 Dragonslayer_0082288.txt
 Shock Treatment_0083067.txt
 Excalibur_0082348.txt
 Thief_0083190.txt
-Possessions_0227291.txt
+On Golden Pond_0082846.txt
+The Four Seasons_0082405.txt
 Blade Runner_0083658.txt
-Conan the Barbarian_0816462.txt
-Annie Hall_0075686.txt
-TRON 2 0_0208650.txt
+Star Trek II The Wrath of Khan_0084726.txt
+E T the Extra Terrestrial_0083866.txt
+The Thing_0084787.txt
+The King of Comedy_0085794.txt
 Fast Times at Ridgemont High_0083929.txt
-Cat People_0034587.txt
 Tootsie_0084805.txt
 First Blood_0083944.txt
+The Best Little Whorehouse in Texas_0083642.txt
 Diner_0083833.txt
 Poltergeist_0084516.txt
 Friday the 13th Part III_0083972.txt
-Frances Ha_2347569.txt
+Frances_0083967.txt
+48 Hrs_0083511.txt
+The Verdict_0084855.txt
 An Officer and a Gentleman_0084434.txt
 Missing_0084335.txt
 Evil Under the Sun_0083908.txt
-Texas Chainsaw_1572315.txt
 Gandhi_0083987.txt
+Star Wars Episode VI Return of the Jedi_0086190.txt
 WarGames_0086567.txt
 Flashdance_0085549.txt
 Superman III_0086393.txt
@@ -223,29 +269,37 @@ Terms of Endearment_0086425.txt
 Scarface_0086250.txt
 A Christmas Story_0085334.txt
 Krull_0085811.txt
+Jaws 3 D_0085750.txt
 Strange Brew_0086373.txt
 Suburbia_0086589.txt
 Under Fire_0086510.txt
-Ghostbusters II_0097428.txt
-Gremlins 2 The New Batch_0099700.txt
+Gremlins_0087363.txt
 Amadeus_0086879.txt
+The Adventures of Buckaroo Banzai Across the 8th Dimension_0086856.txt
+Paris Texas_0087884.txt
 Indiana Jones and the Temple of Doom_0087469.txt
+Star Trek III The Search for Spock_0088170.txt
+The Terminator_0088247.txt
 Sixteen Candles_0088128.txt
+The Karate Kid_0087538.txt
 Dune_0087182.txt
 This Is Spinal Tap_0088258.txt
 Beverly Hills Cop_0086960.txt
-Supergirl Captain America 1990 and Roger Corman s Fantastic Four_4062018.txt
+Supergirl_0088206.txt
+The NeverEnding Story_0088323.txt
+A Nightmare on Elm Street_0087800.txt
 Purple Rain_0087957.txt
 Repo Man_0087995.txt
-2010 The Odyssey Continues_0235153.txt
 Body Double_0086984.txt
+Friday the 13th The Final Chapter_0087298.txt
+Blood Simple_0086979.txt
 Starman_0088172.txt
 Children of the Corn_0087050.txt
-Godzilla 1985_0800414.txt
-Angel Eyes_0225071.txt
+Once Upon a Time in America_0087843.txt
 Romancing the Stone_0088011.txt
-She s Out of My League_0815236.txt
-Back to the Future Part II_0096874.txt
+The Company of Wolves_0087075.txt
+Back to the Future_0088763.txt
+The Breakfast Club_0088847.txt
 Agnes of God_0088683.txt
 Brazil_0088846.txt
 Real Genius_0089886.txt
@@ -253,287 +307,388 @@ Clue_0088930.txt
 Fletch_0089155.txt
 Ran_0089881.txt
 Commando_0088944.txt
+The Goonies_0089218.txt
 Day of the Dead_0088993.txt
-After Hours Revisits Rock Stars Lamb Entrees and Late Night_5070224.txt
 Legend_0089469.txt
 Detective_0089066.txt
-Witness for the Prosecution_0051201.txt
+Witness_0090329.txt
 Fright Night_0089175.txt
+A Nightmare on Elm Street 2 Freddy s Revenge_0089686.txt
 Out of Africa_0089755.txt
 Kiss of the Spider Woman_0089424.txt
+Rambo First Blood Part II_0089880.txt
+Ferris Bueller s Day Off_0091042.txt
 Labyrinth_0091369.txt
-Aliens vs Predator_7039058.txt
+Aliens_0090605.txt
 Hannah and Her Sisters_0091167.txt
-Highlander Endgame_0144964.txt
+Highlander_0091203.txt
 Top Gun_0092099.txt
 Little Shop of Horrors_0091419.txt
 Peggy Sue Got Married_0091738.txt
 Big Trouble in Little China_0090728.txt
+Star Trek IV The Voyage Home_0092007.txt
 Blue Velvet_0090756.txt
+The Fly_0091064.txt
 Platoon_0091763.txt
+The Transformers The Movie_0092106.txt
 Manhunter_0091474.txt
-Pirates of the Caribbean At World s End_0449088.txt
+April Fool s Day_0090655.txt
+Friday the 13th Part VI Jason Lives_0091080.txt
+The Princess Bride_0093779.txt
 RoboCop_0093870.txt
 Full Metal Jacket_0093058.txt
-Lethal Weapon 4_0122151.txt
+Lethal Weapon_0093409.txt
 Spaceballs_0094012.txt
-Predator 2_0100403.txt
+Withnail I_0094336.txt
+Predator_0093773.txt
+The Witches of Eastwick_0094332.txt
 Moonstruck_0093565.txt
-Hellraiser Bloodline_0116514.txt
+The Lost Boys_0093437.txt
+Hellraiser_0093177.txt
 Prince of Darkness_0093777.txt
 Raising Arizona_0093822.txt
 Evil Dead II_0092991.txt
+Superman IV The Quest for Peace_0094074.txt
 Fatal Attraction_0093010.txt
 Broadcast News_0092699.txt
 Empire of the Sun_0092965.txt
+A Nightmare on Elm Street 3 Dream Warriors_0093629.txt
+Jaws The Revenge_0093300.txt
+Three Men and a Baby_0094137.txt
 Hope and Glory_0093209.txt
+The Running Man_0093894.txt
 Who Framed Roger Rabbit_0096438.txt
-Die Hard 2_0099423.txt
+Die Hard_0095016.txt
+Beetlejuice_0094721.txt
 Willow_0096446.txt
 Heathers_0097493.txt
 Working Girl_0096463.txt
 Killer Klowns from Outer Space_0095444.txt
 A Fish Called Wanda_0095159.txt
 Midnight Run_0095631.txt
-Hairspray_0427327.txt
 Beaches_0094715.txt
 Alien Nation_0094631.txt
 Scrooged_0096061.txt
 Cinema Paradiso_0095765.txt
-Big Eyes_1126590.txt
+The Last Temptation of Christ_0095497.txt
+Hellbound Hellraiser II_0095294.txt
+Big_0094737.txt
+A Nightmare on Elm Street 4 The Dream Master_0095742.txt
+The Accidental Tourist_0094606.txt
 Bull Durham_0094812.txt
-Chocolat_0241303.txt
-Shameless_1586680.txt
+The Big Blue_0095250.txt
+The Great Outdoors_0095253.txt
 On the Silver Globe_0093593.txt
 Back to the Future Part II_0096874.txt
 When Harry Met Sally_0098635.txt
-Batman Begins_0372784.txt
+The Little Mermaid_0097757.txt
+Batman_0096895.txt
 Indiana Jones and the Last Crusade_0097576.txt
+Star Trek V The Final Frontier_0098382.txt
 Ghostbusters II_0097428.txt
+Honey I Shrunk the Kids_0097523.txt
+The Abyss_0096754.txt
+Sex Lies and Videotape_0098724.txt
 Dead Poets Society_0097165.txt
+Bill Ted s Excellent Adventure_0096928.txt
 Major League_0097815.txt
 Leviathan_0097737.txt
 Drugstore Cowboy_0097240.txt
+Say Anything_0098258.txt
 Born on the Fourth of July_0096969.txt
+A Nightmare on Elm Street 5 The Dream Child_0097981.txt
 Do the Right Thing_0097216.txt
-Glory Road_0502360.txt
+Friday the 13th Part VIII Jason Takes Manhattan_0097388.txt
 Driving Miss Daisy_0097239.txt
 Field of Dreams_0097351.txt
+National Lampoon s Christmas Vacation_0097958.txt
+The Killer_0097202.txt
+The Punisher_0098141.txt
 Total Recall_0100802.txt
-Home Alone 2 Lost in New York_0104431.txt
-It Follows_3235888.txt
+Home Alone_0099785.txt
 Misery_0100157.txt
 Postcards from the Edge_0100395.txt
-Ghost Adventures_1319900.txt
+Ghost_0099653.txt
 Tremors_0100814.txt
 Pretty Woman_0100405.txt
 Goodfellas_0099685.txt
 Darkman_0099365.txt
+The Bonfire of the Vanities_0099165.txt
 Edward Scissorhands_0099487.txt
 Wild at Heart_0100935.txt
 Joe Versus the Volcano_0099892.txt
 Die Hard 2_0099423.txt
+The Hunt for Red October_0099810.txt
+Miller s Crossing_0100150.txt
 Predator 2_0100403.txt
-Alice in Wonderland_1014759.txt
+Jacob s Ladder_0099871.txt
 Dances with Wolves_0099348.txt
+The Rescuers Down Under_0100477.txt
+The Godfather Coda The Death of Michael Corleone_0099674.txt
 Rocky V_0100507.txt
+Gremlins 2 The New Batch_0099700.txt
 Nightbreed_0100260.txt
 Days of Thunder_0099371.txt
-Beauty and the Beast_0038348.txt
+The Silence of the Lambs_0102926.txt
+Thelma Louise_0103074.txt
 Point Break_0102685.txt
 Fried Green Tomatoes_0101921.txt
-Hook Line and Sinker Part 2_0549217.txt
-Slackers_0240900.txt
-Barton Fink_0101410.txt
-My Girl 2_0110613.txt
-Boyz n the Hood_0101507.txt
+Terminator 2 Judgment Day_0103064.txt
+Hook_0102057.txt
 Robin Hood Prince of Thieves_0102798.txt
+The Fisher King_0101889.txt
+The Naked Gun 2 The Smell of Fear_0102510.txt
+Barton Fink_0101410.txt
+Bill Ted s Bogus Journey_0101452.txt
+What About Bob_0103241.txt
+Star Trek VI The Undiscovered Country_0102975.txt
+The Addams Family_0101272.txt
+The Last Boy Scout_0102266.txt
+My Girl_0102492.txt
+Boyz n the Hood_0101507.txt
+Freddy s Dead The Final Nightmare_0101917.txt
 JFK_0102138.txt
 My Own Private Idaho_0102494.txt
-Cape Fear_0055824.txt
 New Jack City_0102526.txt
 Backdraft_0101393.txt
-Reservoir Dogs Sundance Institute 1991 June Film Lab_6493238.txt
 Aladdin_0103639.txt
+Alien_0103644.txt
+Home Alone 2 Lost in New York_0104431.txt
 Glengarry Glen Ross_0104348.txt
 A Few Good Men_0104257.txt
-Buffy the Vampire Slayer_0118276.txt
 Batman Returns_0103776.txt
 Sister Act_0105417.txt
 Army of Darkness_0106308.txt
 El Mariachi_0104815.txt
 My Cousin Vinny_0104952.txt
+Twin Peaks Fire Walk with Me_0105665.txt
 Single White Female_0105414.txt
+The Crying Game_0104036.txt
+The Player_0105151.txt
 Scent of a Woman_0105323.txt
 Malcolm X_0104797.txt
+The Cutting Edge_0104040.txt
 Basic Instinct_0103772.txt
+Bram Stoker s Dracula_0103874.txt
 Hero_0104412.txt
 Candyman_0103919.txt
-Sneakers_1256467.txt
+Hellraiser III Hell on Earth_0104409.txt
 Unforgiven_0105695.txt
+The Last of the Mohicans_0104691.txt
+The Bodyguard_0103855.txt
 Passenger 57_0105104.txt
-Jurassic Park III_0163025.txt
+Jurassic Park_0107290.txt
 Groundhog Day_0107048.txt
 Demolition Man_0106697.txt
 Sleepless in Seattle_0108160.txt
 Hocus Pocus_0107120.txt
 Manhattan Murder Mystery_0107507.txt
 Dazed and Confused_0106677.txt
+The Sandlot_0108037.txt
 Cool Runnings_0106611.txt
-Dave_8531222.txt
+Schindler s List_0108052.txt
 Fatal Instinct_0106873.txt
+The Nightmare Before Christmas_0107688.txt
+The Fugitive_0106977.txt
 Tombstone_0108358.txt
 Searching for Bobby Fischer_0108065.txt
 Cliffhanger_0106582.txt
-Naked Gun 33 1 3 The Final Insult_0110622.txt
+Super Mario Bros_0108255.txt
+Batman Mask of the Phantasm_0106364.txt
 Body Snatchers_0106452.txt
+The Firm_0106918.txt
 Philadelphia_0107818.txt
 True Romance_0108399.txt
 Arctic Blue_0106303.txt
 Body Bags_0106449.txt
+The Pelican Brief_0107798.txt
+A Perfect World_0107808.txt
+Benny Joon_0106387.txt
 Indecent Proposal_0107211.txt
 Poetic Justice_0107840.txt
 Six Degrees of Separation_0108149.txt
 Last Action Hero_0107362.txt
 So I Married an Axe Murderer_0108174.txt
 Pulp Fiction_0110912.txt
+The Lion King_0110357.txt
 Interview with the Vampire The Vampire Chronicles_0110148.txt
-Speed Racer_0811080.txt
+The Shawshank Redemption_0111161.txt
+Speed_0111257.txt
+Ace Ventura Pet Detective_0109040.txt
+Clerks_0109445.txt
 Heavenly Creatures_0110005.txt
 Forrest Gump_0109830.txt
 Reality Bites_0110950.txt
+Dumb and Dumber_0109686.txt
 Stargate_0111282.txt
-Little Women_3281548.txt
+The Client_0109446.txt
+L on The Professional_0110413.txt
+Naked Gun 33 1 3 The Final Insult_0110622.txt
 Ed Wood_0109707.txt
-Priest_0822847.txt
+The Hudsucker Proxy_0110074.txt
+The Adventures of Priscilla Queen of the Desert_0109045.txt
+The Crow_0109506.txt
 Star Trek Generations_0111280.txt
-Quiz Show Winner_4335006.txt
+The Mask_0110475.txt
 Color of Night_0109456.txt
 In the Mouth of Madness_0113409.txt
+The Flintstones_0109813.txt
+Wes Craven s New Nightmare_0111686.txt
 Four Weddings and a Funeral_0109831.txt
 Serial Mom_0111127.txt
+The Usual Suspects_0114814.txt
 Se7en_0114369.txt
-Toy Story 2_0120363.txt
+Toy Story_0114709.txt
 Hackers_0113243.txt
-Outbreak_0525549.txt
+Die Hard with a Vengeance_0112864.txt
 Braveheart_0112573.txt
 Sense and Sensibility_0114388.txt
+The Bridges of Madison County_0112579.txt
 Mallrats_0113749.txt
 Strange Days_0114558.txt
 Clueless_0112697.txt
 Now and Then_0114011.txt
+Four Rooms_0113101.txt
 Batman Forever_0112462.txt
 While You Were Sleeping_0114924.txt
 Heat_0113277.txt
-Pride and Prejudice_1332374.txt
 A Goofy Movie_0113198.txt
-Sabrina_0047437.txt
 Boys on the Side_0112571.txt
 Copycat_0112722.txt
-Casino Royale_0381061.txt
+Casino_0112641.txt
 Waterworld_0114898.txt
-Safe House_1599348.txt
+12 Monkeys_0114746.txt
 Fallen Angels_0112913.txt
+Mighty Morphin Power Rangers The Movie_0113820.txt
+The American President_0112346.txt
 Jumanji_0113497.txt
 Before Sunrise_0112471.txt
 Assassins_0112401.txt
 Devil in a Blue Dress_0112857.txt
-Kids in the Hall_3360652.txt
+Kids_0113540.txt
 GoldenEye_0113189.txt
 Othello_0114057.txt
-Babel_0449467.txt
 Nick of Time_0113972.txt
-Friday the 13th Part 2_0082418.txt
+Friday_0113118.txt
 Judge Dredd_0113492.txt
 Leaving Las Vegas_0113627.txt
-True Crime_0139668.txt
-Bad Boys for Life_1502397.txt
-Alice in Wonderland_1014759.txt
-Jane Eyre_1229822.txt
+Mr Holland s Opus_0113862.txt
+The Rock_0117500.txt
 Trainspotting_0117951.txt
 Bound_0115736.txt
 Broken Arrow_0115759.txt
 Independence Day_0116629.txt
+Mission Impossible_0117060.txt
 From Dusk Till Dawn_0116367.txt
-Scream 2_0120082.txt
-Firetrap_0243907.txt
+The Cable Guy_0115798.txt
 DragonHeart_0116136.txt
-Fargo_2802850.txt
+The Long Kiss Goodnight_0116908.txt
+The Craft_0115963.txt
+Escape from L A_0116225.txt
 Emma_0116191.txt
+The English Patient_0116209.txt
+The Mirror Has Two Faces_0117057.txt
 Beautiful Girls_0115639.txt
-August Osage County_1322269.txt.txt
+Star Trek First Contact_0117731.txt
 Hard Eight_0119256.txt
-Fear and Loathing in Las Vegas_0120669.txt
+The Frighteners_0116365.txt
+Romeo Juliet_0117509.txt
 Chain Reaction_0115857.txt
+Hellraiser Bloodline_0116514.txt
 Lone Star_0116905.txt
 Swingers_0117802.txt
+Beavis and Butt Head Do America_0115641.txt
 Crash_0115964.txt
 Basquiat_0115632.txt
-Michael Clayton_0465538.txt
-Jack Goes Boating_1278379.txt
 Jerry Maguire_0116695.txt
 Tin Cup_0117918.txt
-Mother_5109784.txt
+The Watermelon Woman_0118125.txt
 Courage Under Fire_0115956.txt
+The Arrival_0115571.txt
 Bottle Rocket_0115734.txt
+Austin Powers International Man of Mystery_0118655.txt
+The Fifth Element_0119116.txt
+The Game_0119174.txt
 Gattaca_0119177.txt
-Men in Black 3_1409024.txt
+Men in Black_0119654.txt
+The Devil s Advocate_0118971.txt
 Starship Troopers_0120201.txt
+Alien Resurrection_0118583.txt
 Conspiracy Theory_0118883.txt
 Titanic_0120338.txt
 Liar Liar_0119528.txt
+G I Jane_0119173.txt
 Con Air_0118880.txt
+Life Is Beautiful_0118799.txt
 Good Will Hunting_0119217.txt
+The Postman_0119925.txt
 Event Horizon_0119081.txt
+Romy and Michele s High School Reunion_0120032.txt
 Cube_0123755.txt
 As Good as It Gets_0119822.txt
 Grosse Pointe Blank_0119229.txt
+Batman Robin_0118688.txt
 Air Force One_0118571.txt
+My Best Friend s Wedding_0119738.txt
 Anastasia_0118617.txt
 Jackie Brown_0119396.txt
+L A Confidential_0119488.txt
 Boogie Nights_0118749.txt
 Chasing Amy_0118842.txt
 Lost Highway_0116922.txt
 Scream 2_0120082.txt
 I Know What You Did Last Summer_0119345.txt
-Cloverfield_1060277.txt
+The Lost World Jurassic Park_0119567.txt
+Face Off_0119094.txt
 Donnie Brasco_0119008.txt
 Seven Years in Tibet_0120102.txt
 An American Werewolf in Paris_0118604.txt
 Cop Land_0118887.txt
 Anaconda_0118615.txt
+Mrs Brown_0119280.txt
 Tomorrow Never Dies_0120347.txt
-Blade II_0187738.txt
+Blade_0120611.txt
 Deep Impact_0120647.txt
 Mulan_0120762.txt
+The Truman Show_0120382.txt
+The Thin Red Line_0120863.txt
 Rushmore_0128445.txt
 Sphere_0120184.txt
 Apt Pupil_0118636.txt
+The Big Lebowski_0118715.txt
 Fear and Loathing in Las Vegas_0120669.txt
 Velvet Goldmine_0120879.txt
-Giant_0049261.txt
+The Faculty_0133751.txt
+The Wedding Singer_0120888.txt
 Armageddon_0120591.txt
+You ve Got Mail_0128853.txt
 Happiness_0147612.txt
+Star Trek Insurrection_0120844.txt
+The Mask of Zorro_0120746.txt
 Practical Magic_0120791.txt
 Pleasantville_0120789.txt
 Saving Private Ryan_0120815.txt
+The Parent Trap_0120783.txt
 Stepmom_0120686.txt
-Rush Hour 2_0266915.txt
+Rush Hour_0120812.txt
 Pi_0138704.txt
-Dark City_1055019.txt
+Lock Stock and Two Smoking Barrels_0120735.txt
 Shakespeare in Love_0138097.txt
-Elizabeth Blue_5881892.txt
-Godzilla 1985_0800414.txt
+The X Files_0120902.txt
+Godzilla_0120685.txt
 Out of Sight_0120780.txt
 American History X_0120586.txt
 Small Soldiers_0122718.txt
 Disturbing Behavior_0134619.txt
 Beloved_0120603.txt
 Urban Legend_0146336.txt
-Wild Things Diamonds in the Rough_0448179.txt
+Ringu_0178868.txt
+Halloween H20 20 Years Later_0120694.txt
+Wild Things_0120890.txt
+The Avengers_0118661.txt
 Enemy of the State_0120660.txt
 Lost in Space_0120738.txt
-Moby Dick_0049513.txt
+There s Something About Mary_0129387.txt
 I Still Know What You Did Last Summer_0130018.txt
 Ronin_0122690.txt
 Great Expectations_0119223.txt
@@ -541,275 +696,350 @@ Meet Joe Black_0119643.txt
 Lethal Weapon 4_0122151.txt
 Antz_0120587.txt
 Hard Rain_0120696.txt
-Taxi Driver_0075314.txt
+Austin Powers The Spy Who Shagged Me_0145660.txt
 Office Space_0151804.txt
+The Matrix_0133093.txt
 American Beauty_0169547.txt
 Toy Story 2_0120363.txt
 Sleepy Hollow_0162661.txt
 8MM_0134273.txt
 Fight Club_0137523.txt
 10 Things I Hate About You_0147800.txt
+Star Wars Episode I The Phantom Menace_0120915.txt
+The Sixth Sense_0167404.txt
+The Boondock Saints_0144117.txt
 Dogma_0120655.txt
+Go_0139239.txt
+The Iron Giant_0129167.txt
 Being John Malkovich_0120601.txt
 Galaxy Quest_0177789.txt
-Tarzan s Secret Treasure_0034266.txt
 Wild Wild West_0120891.txt
-Stuart Little 2_0243585.txt
 Drop Dead Gorgeous_0157503.txt
 Memento Mori_0266075.txt
+South Park Bigger Longer Uncut_0158983.txt
 Magnolia_0175880.txt
 Cruel Intentions_0139134.txt
-Inferno_3062096.txt
+The Mummy_0120616.txt
+The Blair Witch Project_0185937.txt
 Analyze This_0122933.txt
 Never Been Kissed_0151738.txt
 Notting Hill_0125439.txt
 Payback_0120784.txt
+The Rage Carrie 2_0144814.txt
+The Green Mile_0120689.txt
+The Cider House Rules_0124315.txt
+The Talented Mr Ripley_0134119.txt
 Mystery Men_0132347.txt
+The Haunting_0171363.txt
 eXistenZ_0120907.txt
-Annie Hall_0075686.txt
 Man on the Moon_0125664.txt
 Blast from the Past_0124298.txt
-Trick or Treat_0092112.txt
-Ringer_0117480.txt
+Edtv_0131369.txt
+The Ninth Gate_0142688.txt
+The World Is Not Enough_0143145.txt
 Fantasia 2000_0120910.txt
+The Thomas Crown Affair_0155267.txt
+The Deep End of the Ocean_0120646.txt
 Stigmata_0145531.txt
 Lake Placid_0139414.txt
 Music of the Heart_0166943.txt
 Runaway Bride_0163187.txt
 Idle Hands_0138510.txt
 Any Given Sunday_0146838.txt
-Memento Mori_0266075.txt
+Three Kings_0120188.txt
 American Psycho_0144084.txt
 Hollow Man_0164052.txt
 Mission to Mars_0183523.txt
+X Men_0120903.txt
 Pitch Black_0134847.txt
 Erin Brockovich_0195685.txt
 Ginger Snaps_0210070.txt
-Tully_5610554.txt
 Boiler Room_0181984.txt
 Chocolat_0241303.txt
 Almost Famous_0181875.txt
-28 Days Later_0289043.txt
-High Fidelity_0876719.txt
+28 Days_0191754.txt
 What Lies Beneath_0161081.txt
+Snatch_0208092.txt
 Sexy Beast_0203119.txt
 Unbreakable_0217869.txt
+Charlie s Angels_0160127.txt
 Gladiator_0172495.txt
 What Women Want_0207201.txt
 Requiem for a Dream_0180093.txt
+Love Basketball_0199725.txt
+Gone in 60 Seconds_0187078.txt
+The Patriot_0187393.txt
 Little Nicky_0185431.txt
+Thirteen Days_0146309.txt
 Cast Away_0162222.txt
+The Gift_0219699.txt
+Bamboozled_0215545.txt
+Cecil B Demented_0173716.txt
 Romeo Must Die_0165929.txt
-Final Destination 2_0309593.txt
+The Cell_0209958.txt
+Final Destination_0195714.txt
 Scream 3_0134084.txt
-Dune_0087182.txt
 Cherry Falls_0175526.txt
-Scary Movie 2_0257106.txt
-Space Cowboys_12239918.txt
+Scary Movie_0175142.txt
+Mission Impossible II_0120755.txt
 Autumn in New York_0174480.txt
 Next Friday_0195945.txt
 Traffic_0181865.txt
 Wonder Boys_0185014.txt
-Beautiful Girls_0115639.txt
+Ocean s Eleven_0240772.txt
+A I Artificial Intelligence_0212720.txt
 Jason X_0211443.txt
+Monsters Inc_0198781.txt
 Antitrust_0218817.txt
 Jay and Silent Bob Strike Back_0261392.txt
-Shrek the Third_0413267.txt
+Shrek_0126029.txt
 A Beautiful Mind_0268978.txt
 Ghost World_0162346.txt
+Lagaan Once Upon a Time in India_0169102.txt
+The Lord of the Rings The Fellowship of the Ring_0120737.txt
+The Royal Tenenbaums_0265666.txt
 Black Hawk Down_0265086.txt
 Legally Blonde_0250494.txt
-Witchery_0096453.txt
+The Others_0230600.txt
 Donnie Darko_0246578.txt
+Am lie_0211915.txt
 Gosford Park_0280707.txt
 American Outlaws_0244000.txt
 Human Nature_0219822.txt
+Kate Leopold_0035423.txt
+Moulin Rouge_0203009.txt
+Harry Potter and the Sorcerer s Stone_0241527.txt
 Pearl Harbor_0213149.txt
 Jeepers Creepers_0263488.txt
 Training Day_0139654.txt
-Go_0139239.txt
 Monkeybone_0166276.txt
 Hannibal_0212985.txt
-Valentine s Day_0817230.txt
+Valentine_0242998.txt
 Vanilla Sky_0259711.txt
 From Hell_0120681.txt
 Thir13en Ghosts_0245674.txt
+The Fast and the Furious_0232500.txt
 Heist_0252503.txt
-Planet of the Apes_0063442.txt
+Monster s Ball_0285742.txt
+Planet of the Apes_0133152.txt
 Jurassic Park III_0163025.txt
 Scary Movie 2_0257106.txt
 Swordfish_0244244.txt
+K PAX_0272152.txt
+The Mummy Returns_0209163.txt
 Rush Hour 2_0266915.txt
 In the Bedroom_0247425.txt
 Sweet November_0230838.txt
 Frailty_0264616.txt
 Life as a House_0264796.txt
 Minority Report_0181689.txt
-Mr Deeds Goes to Town_0027996.txt
 Insomnia_0278504.txt
 Phone Booth_0183649.txt
+The Bourne Identity_0258463.txt
+Star Trek Nemesis_0253754.txt
 S1m0ne_0258153.txt
 Equilibrium_0238380.txt
-Resident Evil Afterlife_1220634.txt
+The Hours_0274558.txt
+The Lord of the Rings The Two Towers_0167261.txt
+Resident Evil_0120804.txt
 Catch Me If You Can_0264464.txt
-My Big Fat Greek Wedding 2_3760922.txt
+28 Days Later_0289043.txt
+Star Wars Episode II Attack of the Clones_0121765.txt
+The Ring_0298130.txt
 Reign of Fire_0253556.txt
-Tender Mercies_0086423.txt
-Friday the 13th Part 2_0082418.txt
-Adaptation_2980718.txt
+The Rules of Attraction_0292644.txt
+Spider Man_0145487.txt
 Blade II_0187738.txt
+The Good Girl_0279113.txt
 xXx_0295701.txt
 Far from Heaven_0297884.txt
 Harry Potter and the Chamber of Secrets_0295297.txt
 Road to Perdition_0257044.txt
-Cabin Fever Family Friendly Version_1010382.txt
 Panic Room_0258000.txt
 8 Mile_0298203.txt
 Gangs of New York_0217505.txt
 Death to Smoochy_0266452.txt
 About Schmidt_0257360.txt
-Carrie_0074285.txt
+Scooby Doo_0267913.txt
 Queen of the Damned_0238546.txt
 Solaris_0307479.txt
 25th Hour_0307901.txt
 Signs_0286106.txt
+Punch Drunk Love_0272338.txt
 They_0283632.txt
+The Pianist_0253474.txt
 Confessions of a Dangerous Mind_0270288.txt
+The Mothman Prophecies_0265349.txt
 Unfaithful_0250797.txt
-Spider Man 2_0316654.txt
 Ghost Ship_0288477.txt
-Enough Said_2390361.txt
-Big Trouble in Little China_0090728.txt
-Identity Theft_1840923.txt
+The Time Machine_0268695.txt
+Enough_0278435.txt
+S W A T_0257076.txt
+The Matrix Reloaded_0234215.txt
+The Matrix Revolutions_0242653.txt
+X2 X Men United_0290334.txt
+Identity_0309698.txt
 Bruce Almighty_0315327.txt
-Monster s Ball_0285742.txt
+The Lord of the Rings The Return of the King_0167260.txt
+Monster_0340855.txt
+Kill Bill Vol 1_0266697.txt
+Pirates of the Caribbean The Curse of the Black Pearl_0325980.txt
 Finding Nemo_0266543.txt
 Love Actually_0314331.txt
+Master and Commander The Far Side of the World_0311113.txt
+Lost in Translation_0335266.txt
 Holes_0311289.txt
 Cold Mountain_0159365.txt
-Nothing But a Man_0058414.txt
+The Last Samurai_0325710.txt
 Daredevil_0287978.txt
-Thirteen Conversations About One Thing_0268690.txt
 Big Fish_0319061.txt
+Something s Gotta Give_0337741.txt
 Final Destination 2_0309593.txt
 Secondhand Lions_0327137.txt
 Girl with a Pearl Earring_0335119.txt
+Terminator 3 Rise of the Machines_0181852.txt
 Mystic River_0327056.txt
 Oldboy_0364569.txt
 Cradle 2 the Grave_0306685.txt
 Timeline_0300556.txt
-Pride and Prejudice_1332374.txt
+21 Grams_0315733.txt
 Gothika_0348836.txt
-Basic Insect_7093682.txt
 Intolerable Cruelty_0138524.txt
-Evil Dead II_0092991.txt
 House of 1000 Corpses_0251736.txt
 Bad Santa_0307987.txt
 Elf_0319343.txt
 Cheaper by the Dozen_0349205.txt
+The Hebrew Hammer_0317640.txt
+I Robot_0343818.txt
+The Incredibles_0317705.txt
+The Butterfly Effect_0289879.txt
+The Bourne Supremacy_0372183.txt
 Eternal Sunshine of the Spotless Mind_0338013.txt
 Mean Girls_0377092.txt
+Harold Kumar Go to White Castle_0366551.txt
+Anchorman The Legend of Ron Burgundy_0357413.txt
+Ocean s Twelve_0349903.txt
+Kill Bill Vol 2_0378194.txt
 Spanglish_0371246.txt
 Saw_0387564.txt
 Troy_0332452.txt
-Van Helsing_5197820.txt
 Shaun of the Dead_0365748.txt
 Catwoman_0327554.txt
 Million Dollar Baby_0405159.txt
 In Good Company_0385267.txt
-Ordinary People_0081283.txt
+Spider Man 2_0316654.txt
+The Terminal_0362227.txt
 Garden State_0333766.txt
 Napoleon Dynamite_0374900.txt
-Collateral Damage_0699285.txt
+Harry Potter and the Prisoner of Azkaban_0304141.txt
+Team America World Police_0372588.txt
+The Phantom of the Opera_0293508.txt
+Collateral_0369339.txt
 Cellular_0337921.txt
-Dawn of the Dead_0077402.txt
 New York Minute_0363282.txt
+The Aviator_0338751.txt
 Maria Full of Grace_0390221.txt
-Crash_0115964.txt
-Hellboy II The Golden Army_0411477.txt
-Taxi Driver_0075314.txt
+The Grudge_0391198.txt
+Hellboy_0167190.txt
+The Life Aquatic with Steve Zissou_0362270.txt
 Secret Window_0363988.txt
+The Village_0368447.txt
 Before Sunset_0381681.txt
 National Treasure_0368891.txt
 Taking Lives_0364045.txt
-House of Dark Shadows_0065856.txt
-Hotel Transylvania 2_2510894.txt
+The Punisher_0330793.txt
+Blade Trinity_0359013.txt
+The Passion of the Christ_0335345.txt
 Walking Tall_0351977.txt
 Thunderbirds_0167456.txt
+Wild Things Diamonds in the Rough_0448179.txt
 Batman Begins_0372784.txt
-V for Vendetta Unmasked_0775408.txt
+The Hitchhiker s Guide to the Galaxy_0371724.txt
+V for Vendetta_0434409.txt
 Serenity_0379786.txt
-Kiss Kiss Bang Bang_0061870.txt
 Jarhead_0418763.txt
+The Descent_0435625.txt
 Thank You for Smoking_0427944.txt
 Hard Candy_0424136.txt
+Good Night and Good Luck_0433383.txt
+The Island_0399201.txt
 Brick_0393109.txt
-Water for Elephants_1067583.txt
-King Kong_0024216.txt
+Star Wars Episode III Revenge of the Sith_0121766.txt
+King Kong_0360717.txt
+The 40 Year Old Virgin_0405422.txt
+The Legend of Zorro_0386140.txt
 War of the Worlds_0407304.txt
-Doom Patrol 1x1 REACTION Pilot_11528496.txt
+The Chronicles of Narnia The Lion the Witch and the Wardrobe_0363771.txt
 Kingdom of Heaven_0320661.txt
+The New World_0402399.txt
+The Constant Gardener_0387131.txt
+The Squid and the Whale_0367089.txt
+The Jacket_0366627.txt
 Lord of War_0399295.txt
 Wedding Crashers_0396269.txt
 Red Eye_0421239.txt
 Harry Potter and the Goblet of Fire_0330373.txt
 Rent_0294870.txt
 Flightplan_0408790.txt
-Fun with Dick and Jane_0076059.txt
 Fantastic Four_0120667.txt
 Memoirs of a Geisha_0397535.txt
-Proof of Life_0228750.txt
+Hustle Flow_0410097.txt
+Mr Mrs Smith_0356910.txt
 Constantine_0360486.txt
+The Wedding Date_0372532.txt
 Match Point_0416320.txt
-Hitchcock_0975645.txt
-Pride and Prejudice_1332374.txt
-Hate Crime_2257436.txt
+Pride Prejudice_0414387.txt
+The Fog_0432291.txt
 Munich_0408306.txt
 A History of Violence_0399146.txt
+The Pacifier_0395699.txt
 Stay_0371257.txt
 Elizabethtown_0368709.txt
 Idiocracy_0387808.txt
+The Devil Wears Prada_0458352.txt
+Pirates of the Caribbean Dead Man s Chest_0383574.txt
+The Pursuit of Happyness_0454921.txt
+The Holiday_0457939.txt
 Casino Royale_0381061.txt
 Crank_0479884.txt
 Children of Men_0206634.txt
-Night at the Museum Battle of the Smithsonian_1078912.txt
+Night at the Museum_0477347.txt
+Pan s Labyrinth_0457430.txt
 Little Children_0404203.txt
-Once Upon a Time in America_0087843.txt
 Stranger Than Fiction_0420223.txt
 Little Miss Sunshine_0449059.txt
-3000_4759852.txt
+The Departed_0407887.txt
+300_0416449.txt
 Eragon_0449010.txt
+The Queen_0436697.txt
 Stick It_0430634.txt
 Slither_0439815.txt
 Black Christmas_0454082.txt
-Cars 2_1216475.txt
+The Prestige_0482571.txt
 Inside Man_0454848.txt
 A Scanner Darkly_0405296.txt
 Notes on a Scandal_0465551.txt
 Letters from Iwo Jima_0498380.txt
-After the Wedding_7985692.txt
-Requiem for a Dream_0180093.txt
-I Don t Feel at Home in This World Anymore_5710514.txt
 John Tucker Must Die_0455967.txt
-Psycho_0054215.txt
-Blood Diamonds_0743446.txt
-When a Stranger Calls_0080130.txt
-Altered Carbon Episode 1 Spoiler Free Review Out of the Past_13255492.txt
-Candyman_0103919.txt
+The Black Dahlia_0387877.txt
 Click_0389860.txt
 Babel_0449467.txt
-U Turn_0120399.txt
+The Hills Have Eyes_0454841.txt
 Happy Feet_0366548.txt
-Glory Road_0502360.txt
 Miami Vice_0430357.txt
 Away from Her_0491747.txt
+Talladega Nights The Ballad of Ricky Bobby_0415306.txt
 Rocky Balboa_0479143.txt
 Deja Vu_0453467.txt
 Death Proof_1028528.txt
 Juno_0467406.txt
-Next Friday_0195945.txt
+Next_0435705.txt
 Ratatouille_0382932.txt
+Resident Evil Extinction_0432021.txt
+The Brave One_0476964.txt
 Shrek the Third_0413267.txt
+The Bucket List_0825232.txt
+Pirates of the Caribbean At World s End_0449088.txt
 There Will Be Blood_0469494.txt
 Knocked Up_0478311.txt
 Hairspray_0427327.txt
@@ -819,276 +1049,360 @@ Hot Fuzz_0425112.txt
 Harry Potter and the Order of the Phoenix_0373889.txt
 Transformers_0418279.txt
 Disturbia_0486822.txt
+The Savages_0775529.txt
 Vacancy_0452702.txt
-Sunshine Cleaning A Fresh Look at a Dirty Business_1517098.txt
+Sunshine_0448134.txt
+The Darjeeling Limited_0838221.txt
+Sweeney Todd The Demon Barber of Fleet Street_0408236.txt
 Paranormal Activity_1179904.txt
 Superbad_0829482.txt
 No Country for Old Men_0477348.txt
 Live Free or Die Hard_0337978.txt
+3 10 to Yuma_0381849.txt
 Wild Hogs_0486946.txt
 Atonement_0783233.txt
 Hitman_0465494.txt
-Death at a Funeral_1321509.txt
+The Diving Bell and the Butterfly_0401383.txt
 Michael Clayton_0465538.txt
 30 Days of Night_0389722.txt
 28 Weeks Later_0463854.txt
 Gone Baby Gone_0452623.txt
 Margot at the Wedding_0757361.txt
 Fracture_0488120.txt
+Charlie Wilson s War_0472062.txt
 Breach_0401997.txt
+Lars and the Real Girl_0805564.txt
 Eastern Promises_0765443.txt
-Beowulf Grendel_0402057.txt
+Beowulf_0442933.txt
 1408_0450385.txt
-Gone Baby Gone_0452623.txt
-Inside Llewyn Davis_2042568.txt
-Halloween 4 The Return of Michael Myers_0095271.txt
+Elizabeth The Golden Age_0414055.txt
+The Mist_0884328.txt
 TMNT_0453556.txt
 We Own the Night_0498399.txt
+The Bourne Ultimatum_0440963.txt
 Dead Silence_0455760.txt
 Norbit_0477051.txt
 Awake_0211933.txt
 Zodiac_0443706.txt
 American Gangster_0765429.txt
 Ghost Rider_0259324.txt
+WALL E_0910970.txt
 In Bruges_0780536.txt
-21 Grams_0315733.txt
+The Dark Knight_0468569.txt
 Hancock_0448157.txt
 Wanted_0493464.txt
 Vantage Point_0443274.txt
 Iron Man_0371746.txt
 Burn After Reading_0887883.txt
 Speed Racer_0811080.txt
+The Incredible Hulk_0800080.txt
+Hellboy II The Golden Army_0411477.txt
 Milk_1013753.txt
 Vicky Cristina Barcelona_0497465.txt
 Frozen River_0978759.txt
+The Reader_0976051.txt
 Revolutionary Road_0959337.txt
+The Wrestler_1125849.txt
 Changeling_0824747.txt
 Yes Man_1068680.txt
 Max Payne_0467197.txt
-Sunshine Cleaning A Fresh Look at a Dirty Business_1517098.txt
 Pineapple Express_0910936.txt
 Taken_0936501.txt
 Eagle Eye_1059786.txt
+The Hurt Locker_0887912.txt
 Rachel Getting Married_1084950.txt
-Twilight Zone The Movie_0086491.txt
-Gran Torino Next Door_1753876.txt
+The Curious Case of Benjamin Button_0421715.txt
 Kung Fu Panda_0441773.txt
 Sex and the City_1000774.txt
 Cloverfield_1060277.txt
+I ve Loved You So Long_1068649.txt
+Frost Nixon_0870111.txt
+The House Bunny_0852713.txt
 Indiana Jones and the Kingdom of the Crystal Skull_0367882.txt
-Passengers_1355644.txt
+Happy Go Lucky_1045670.txt
+Marley Me_0822832.txt
 RocknRolla_1032755.txt
-Martyrs_1663655.txt
+Synecdoche New York_0383028.txt
+The Other Boleyn Girl_0467200.txt
 Forgetting Sarah Marshall_0800039.txt
 Deception_0800240.txt
+The Brothers Bloom_0844286.txt
 Valkyrie_0985699.txt
 While She Was Out_0887971.txt
-Day of the Dead_0088993.txt
-Possessions_0227291.txt
-Prom Night_0081383.txt
+The Strangers_0482606.txt
 Mirrors_0790686.txt
-Skin Deep_0098343.txt
-Rambo First Blood Part II_0089880.txt
+The Ruins_0963794.txt
+The Mummy Tomb of the Dragon Emperor_0859163.txt
+Dr Horrible s Sing Along Blog_1227926.txt
 Body of Lies_0758774.txt
 Coraline_0327597.txt
 17 Again_0974661.txt
-Star Trek First Contact_0117731.txt
-Up All Night_1843323.txt
+Star Trek_0796366.txt
+Angels Demons_0808151.txt
+Up_1049413.txt
 Terminator Salvation_0438488.txt
 Watchmen_0409459.txt
+The Hangover_1119646.txt
 Public Enemies_1152836.txt
+Harry Potter and the Half Blood Prince_0417741.txt
 Funny People_1201167.txt
+500 Days of Summer_1022603.txt
+G I Joe The Rise of Cobra_1046173.txt
 District 9_1136608.txt
 Orphan_1148204.txt
-9 millimeter_0118542.txt
 In the Loop_1226774.txt
+X Men Origins Wolverine_0458525.txt
+I Love You Man_1155056.txt
 Surrogates_0986263.txt
 Cloudy with a Chance of Meatballs_0844471.txt
 Moon_1182345.txt
+The Men Who Stare at Goats_1234548.txt
+Fantastic Mr Fox_0432283.txt
+The Invention of Lying_1058017.txt
 Inglourious Basterds_0361748.txt
 Ninja Assassin_1186367.txt
 Up in the Air_1193138.txt
 Avatar_0499549.txt
 Sherlock Holmes_0988045.txt
+Precious_0929632.txt
 A Perfect Getaway_0971209.txt
+Jennifer s Body_1131734.txt
 Drag Me to Hell_1127180.txt
+The Imaginarium of Doctor Parnassus_1054606.txt
 A Single Man_1315981.txt
 Nine_0875034.txt
+The Road_0898367.txt
 I Love You Phillip Morris_1045772.txt
+It s Complicated_1230414.txt
+The Twilight Saga New Moon_1259571.txt
 An Education_1174732.txt
 Bright Star_0810784.txt
 Law Abiding Citizen_1197624.txt
 Splice_1017460.txt
+The Last Station_0824758.txt
+The Human Centipede First Sequence_1467304.txt
+The Informant_1130080.txt
 Invictus_1057500.txt
+Mr Nobody_0485947.txt
 Planet 51_0762125.txt
 All About Steve_0881891.txt
+The Proposal_1041829.txt
+The Young Victoria_0962736.txt
 2012_1190080.txt
-Case 39_3022534.txt
+The Unborn_1139668.txt
+The Ugly Truth_1142988.txt
 A Serious Man_1019452.txt
-Sucker_0178047.txt
-Get Low_3022266.txt
+The Time Traveler s Wife_0452694.txt
+The Blind Side_0878804.txt
+The Box_0362478.txt
 Where the Wild Things Are_0386117.txt
-Alice in Wonderland_1014759.txt
 Gamer_1034032.txt
+The Boondock Saints II All Saints Day_1300851.txt
 Enter the Void_1191111.txt
+The Messenger_0790712.txt
 Broken Embraces_0913425.txt
 3 Idiots_1187043.txt
-Wonder Woman_0451279.txt
+He s Just Not That Into You_1001508.txt
 Pandorum_1188729.txt
+The Fourth Kind_1220198.txt
 Whiteout_0365929.txt
-Friday the 13th Part 2_0082418.txt
+Friday the 13th_0758746.txt
+The Last House on the Left_0844708.txt
 Amelia_1129445.txt
 Triangle_1187064.txt
-Children of the Corn_0087050.txt
 Solomon Kane_0970452.txt
 Sorority Row_1232783.txt
+After Life_0838247.txt
+The Descent Part 2_1073105.txt
+The Hole_1085779.txt
 Year One_1045778.txt
-10 Cloverfield Lane_1179933.txt
+Night at the Museum Battle of the Smithsonian_1078912.txt
 Crazy Heart_1263670.txt
-Fighting Belle_5662022.txt
+The Crazies_0455407.txt
 Alice in Wonderland_1014759.txt
 Diary of a Wimpy Kid_1196141.txt
-How to Train Your Dragon 2_1646971.txt
+How to Train Your Dragon_0892769.txt
 Hot Tub Time Machine_1231587.txt
+The Wolfman_0780653.txt
 Repo Men_1053424.txt
+Kick Ass_1250777.txt
 Date Night_1279935.txt
-Robin Hood Prince of Thieves_0102798.txt
+The Back up Plan_1212436.txt
 Letters to Juliet_0892318.txt
 MacGruber_1470023.txt
+Prince of Persia The Sands of Time_0473075.txt
+The Book of Eli_1037705.txt
+Get Him to the Greek_1226229.txt
 Please Give_0878835.txt
+Winter s Bone_1399683.txt
 Toy Story 3_0435761.txt
+The A Team_0429493.txt
 Legion_1038686.txt
-Boy Erased_7008872.txt
+Valentine s Day_0817230.txt
+The Switch_0889573.txt
+The Expendables_1320253.txt
+The Sorcerer s Apprentice_0963966.txt
 Remember Me_1403981.txt
-Salt of the Earth_0047443.txt
+The Town_0840361.txt
+The Other Guys_1386588.txt
+Resident Evil Afterlife_1220634.txt
+Salt_0944835.txt
 Knight and Day_1013743.txt
-Despicable Me 2_1690953.txt
+The Kids Are All Right_0842926.txt
+The Twilight Saga Eclipse_1325004.txt
+Despicable Me_1323594.txt
 Predators_1424381.txt
 Inception_1375666.txt
 Easy A_1282140.txt
+The American_1440728.txt
+The Losers_0480255.txt
 Machete_0985694.txt
+Scott Pilgrim vs the World_0446029.txt
+The Social Network_1285016.txt
 Let Me In_1228987.txt
 Buried_1462758.txt
+Made in Dagenham_1371155.txt
+Wall Street Money Never Sleeps_1027718.txt
 Black Swan_0947798.txt
 Secretariat_1028576.txt
-Red Eye_0421239.txt
-Devil in a Blue Dress_0112857.txt
+RED_1245526.txt
 Burlesque_1126591.txt
 Megamind_1001526.txt
 127 Hours_1542344.txt
 Another Year_1431181.txt
 Clash of the Titans_0800320.txt
-Monsters Inc_0198781.txt
+Harry Potter and the Deathly Hallows Part 1_0926084.txt
+The Next Three Days_1458175.txt
+The King s Speech_1504320.txt
+The Tourist_1243957.txt
 Skyline_1564585.txt
 Never Let Me Go_1334260.txt
-Balls Out Gary the Tennis Coach_0787470.txt
+The Fighter_0964517.txt
 Blue Valentine_1120985.txt
-Somewhere in Time_0081534.txt
+It s Kind of a Funny Story_0804497.txt
 Dear John_0989757.txt
 Submarine_1440292.txt
+Barney s Version_1423894.txt
 Rabbit Hole_0935075.txt
-Insidious Chapter 2_2226417.txt
-Super 8_1650062.txt
 For Colored Girls_1405500.txt
+Tamara Drewe_1486190.txt
 Animal Kingdom_1313092.txt
 Beginners_1532503.txt
+Percy Jackson the Olympians The Lightning Thief_0814255.txt
+The Debt_1226753.txt
 Fair Game_0977855.txt
+The Conspirator_0968264.txt
+The Whistleblower_0896872.txt
 Four Lions_1341167.txt
-Edge of Darkness When in Rome Saint John of Las Vegas Legion Tooth Fairy 44 Inch Chest_1596979.txt
-Frozen River_0978759.txt
-A Nightmare on Elm Street 2 Freddy s Revenge_0089686.txt
 How Do You Know_1341188.txt
+Jack Goes Boating_1278379.txt
 Flipped_0817177.txt
 Unthinkable_0914863.txt
 Paul_1092026.txt
 I Am Number Four_1464540.txt
+The Adjustment Bureau_1385826.txt
+Battle Los Angeles_1217613.txt
 Bridesmaids_1478338.txt
 Red Riding Hood_1486185.txt
+The Lincoln Lawyer_1189340.txt
 Source Code_0945513.txt
 Limitless_1219289.txt
 Hanna_0993842.txt
 Your Highness_1240982.txt
 Arthur_1334512.txt
 Scream 4_1262416.txt
-Hope and Glory_0093209.txt
-Rio Grande_0042895.txt
-Thor Ragnarok_3501632.txt
-Fast Five_3022828.txt
+Thor_0800369.txt
 No Strings Attached_1411238.txt
+The Help_1454029.txt
 Win Win_1606392.txt
 Hesher_1403177.txt
 Water for Elephants_1067583.txt
+The Tree of Life_0478304.txt
 Jane Eyre_1229822.txt
 Super 8_1650062.txt
 Green Lantern_1133985.txt
 Bad Teacher_1284575.txt
 Midnight in Paris_1605783.txt
-Horrible Bosses 2_2170439.txt
+Horrible Bosses_1499658.txt
 Friends with Benefits_1632708.txt
+Crazy Stupid Love_1570728.txt
+Cowboys Aliens_0409847.txt
 Rise of the Planet of the Apes_1318514.txt
 30 Minutes or Less_1622547.txt
 Conan the Barbarian_0816462.txt
+The Smurfs_0472181.txt
 A Separation_1832382.txt
+The Guard_1540133.txt
 Contagion_1598778.txt
-Drive Angry_1502404.txt
+Drive_0780504.txt
 Moneyball_1210166.txt
+The Ides of March_1124035.txt
 Tinker Tailor Soldier Spy_1340800.txt
+The Mechanic_0472399.txt
+The Artist_1655442.txt
 Cars 2_1216475.txt
 We Need to Talk About Kevin_1242460.txt
+The Adventures of Tintin_0983193.txt
 Margin Call_1615147.txt
 Take Shelter_1675192.txt
 Martha Marcy May Marlene_1441326.txt
+The Descendants_1033575.txt
 My Week with Marilyn_1655420.txt
+The Muppets_1204342.txt
 Priest_0822847.txt
 Hall Pass_0480687.txt
+The Roommate_1265990.txt
 Young Adult_1625346.txt
+The Girl with the Dragon Tattoo_1568346.txt
 War Horse_1568911.txt
 Tower Heist_0471042.txt
-Fright Night_0089175.txt
 Cedar Rapids_1477837.txt
 Warrior_1291584.txt
+The Iron Lady_1007029.txt
 We Bought a Zoo_1389137.txt
 Monte Carlo_1067774.txt
-Michael Clayton_0465538.txt
+The Best Exotic Marigold Hotel_1412386.txt
+The Cabin in the Woods_1259521.txt
 Pariah_1233334.txt
 Damsels in Distress_1667307.txt
-Margaret Thatcher The Iron Lady_2609790.txt
+Margaret_0466893.txt
 A Dangerous Method_1571222.txt
-Shameless_1586680.txt
 Colombiana_1657507.txt
+Batman Year One_1672723.txt
 Butter_1349451.txt
-Hell or High Water_2582782.txt
-Prom 39 Bach Orchestral Transcriptions_1713081.txt
+The Change Up_1488555.txt
 Unknown_1401152.txt
-Goonies 2_10326460.txt
-Catwoman_0327554.txt
-Warrior_1291584.txt
 Chronicle_1706593.txt
-Gone Baby Gone_0452623.txt
 John Carter_0401729.txt
-Battleship Potemkin_0015648.txt
+The Hunger Games_1392170.txt
+The Avengers_0848228.txt
+Men in Black 3_1409024.txt
 Snow White and the Huntsman_1735898.txt
 Prometheus_1446714.txt
 Moonrise Kingdom_1748122.txt
 Safety Not Guaranteed_1862079.txt
 21 Jump Street_1232829.txt
-Braveheart_0112573.txt
 Beasts of the Southern Wild_2125435.txt
+The Dark Knight Rises_1345836.txt
 ParaNorman_1623288.txt
-Total Recall_0100802.txt
+Celeste Jesse Forever_1405365.txt
+The Lorax_1482459.txt
 Ruby Sparks_1839492.txt
+The Master_1560747.txt
 Looper_1276104.txt
-Pitch Perfect 2_2848292.txt
+Pitch Perfect_1981677.txt
 Frankenweenie_1142977.txt
 Seven Psychopaths_1931533.txt
-Hotel Transylvania 2_2510894.txt
 Cloud Atlas_1371111.txt
 Skyfall_1074638.txt
 Argo_1024648.txt
 Smashed_2063781.txt
 Lincoln_0443272.txt
+The Sessions_1866249.txt
 Anna Karenina_1781769.txt
 Zero Dark Thirty_1790885.txt
+The Hobbit An Unexpected Journey_0903624.txt
+Les Mis rables_1707386.txt
 Hitchcock_0975645.txt
 Rise of the Guardians_1446192.txt
 Arbitrage_1764183.txt
@@ -1098,238 +1412,275 @@ Amour_1602620.txt
 Django Unchained_1853728.txt
 Silver Linings Playbook_1045658.txt
 Quartet_1441951.txt
-Safe House_1599348.txt
+The Perks of Being a Wallflower_1659337.txt
 Spring Breakers_2101441.txt
-No Country for Old Men_0477348.txt
-Flight 29 Down_0433275.txt
+Flight_1907668.txt
 Hyde Park on Hudson_1477855.txt
+The Place Beyond the Pines_1817273.txt
 Frances Ha_2347569.txt
-Hannibal_0212985.txt
-Final Analysis_0104265.txt
 Grabbers_1525366.txt
 End of Watch_1855199.txt
-Jackie Brown_0119396.txt
 Good Vibrations_1920945.txt
 Shadow Dancer_1770734.txt
-Snow White and the Huntsman_1735898.txt
-Carrie_0074285.txt
 Olympus Has Fallen_2302755.txt
-Evil Dead II_0092991.txt
 42_0453562.txt
 Oblivion_1483013.txt
 Mud_1935179.txt
+The Croods_0481499.txt
+The Great Gatsby_1343092.txt
+Texas Chainsaw_1572315.txt
 This Is the End_1245492.txt
 Now You See Me_1670345.txt
 After Earth_1815862.txt
+The Purge_2184339.txt
 Monsters University_1453405.txt
 Before Midnight_2209418.txt
+The Bling Ring_2132285.txt
 Despicable Me 2_1690953.txt
 Wadjda_2258858.txt
 White House Down_2334879.txt
 Pacific Rim_1663662.txt
 Only God Forgives_1602613.txt
+The Conjuring_1457767.txt
+The World s End_1213663.txt
+The Way Way Back_1727388.txt
 Blue Jasmine_2334873.txt
 Fruitvale Station_2334649.txt
-2 Guns a Grenade a Pizza Guy_1871996.txt
 Elysium_1535108.txt
+Lee Daniels The Butler_1327773.txt
 Prisoners_1392214.txt
 Gravity_1454468.txt
-Nebraska_1804272.txt
 Dallas Buyers Club_0790636.txt
 Captain Phillips_1535109.txt
 About Time_2194499.txt
+The Fifth Estate_1837703.txt
+Ender s Game_1731141.txt
+All Is Lost_2017038.txt
 Enough Said_2390361.txt
 Inside Llewyn Davis_2042568.txt
-Concussion_3322364.txt
-Frozen River_0978759.txt
-Her Smell_7942742.txt
+Frozen_2294629.txt
+Her_1798709.txt
 Philomena_2431286.txt
+Insidious Chapter 2_2226417.txt
 American Hustle_1800241.txt
+The Secret Life of Walter Mitty_0359950.txt
+The Wolf of Wall Street_0993846.txt
+Saving Mr Banks_2140373.txt
 47 Ronin_1335975.txt
 Only Lovers Left Alive_1714915.txt
 12 Years a Slave_2024544.txt
-Rush Hour 2_0266915.txt
-Oldboy_0364569.txt
+Rush_1979320.txt
+The Past_2404461.txt
 Snowpiercer_1706620.txt
 Kill Your Darlings_1311071.txt
 Bad Words_2170299.txt
 Locke_2692904.txt
-Beneath the Planet of the Apes_0065462.txt
+The Kings of Summer_2179116.txt
+The Zero Theorem_2333804.txt
 Blue Ruin_2359024.txt
+The Spectacular Now_1714206.txt
 Upstream Color_2084989.txt
-Enemy of the State_0120660.txt
-Vikings A Warrior Society Rites of Passage_4620494.txt
 Lone Survivor_1091191.txt
-Queen Slim_8722346.txt
+The Double_1825157.txt
+The Lego Movie_1490017.txt
+The Grand Budapest Hotel_2278388.txt
 Divergent_1840309.txt
 Noah_1959490.txt
-Joe Versus the Volcano_0099892.txt
 Under the Skin_1441395.txt
 Transcendence_2209764.txt
-Godzilla 1985_0800414.txt
+The Fault in Our Stars_2582846.txt
 Boyhood_1065073.txt
-Maleficent_3264268.txt
 Edge of Tomorrow_1631867.txt
+The Rover_2345737.txt
 How to Train Your Dragon 2_1646971.txt
 Calvary_2234003.txt
-Lucy in the Sky_4682804.txt
-Guardians of the Galaxy Vol 2_3896198.txt
+Lucy_2872732.txt
+The Boxtrolls_0787474.txt
 Frank Miller s Sin City A Dame to Kill For_0458481.txt
+Get on Up_2473602.txt
 As Above So Below_2870612.txt
-Pride Prejudice_0414387.txt
+The Maze Runner_1790864.txt
+The Equalizer_0455944.txt
 Gone Girl_2267998.txt
 Annabelle_3322940.txt
 Whiplash_2582802.txt
 Fury_2713180.txt
-Nightcrawler_1964955.txt
 John Wick_2911666.txt
 Interstellar_0816692.txt
+The Interview_2788710.txt
 Birdman or The Unexpected Virtue of Ignorance_2562232.txt
 Inherent Vice_1791528.txt
+The Imitation Game_2084970.txt
 Into the Woods_2180411.txt
-Wild Hogs_0486946.txt
-Leviathan_0097737.txt
-Paddington 2_7904114.txt
-Annie Hall_0075686.txt
+The Theory of Everything_2980516.txt
+Wild_2305051.txt
+St Vincent_2170593.txt
+The Babadook_2321549.txt
 Unbroken_1809398.txt
-A Most Violent Year_5169360.txt
+Kingsman The Secret Service_2802144.txt
 Big Eyes_1126590.txt
 Learning to Drive_3062976.txt
 Infinitely Polar Bear_1969062.txt
 It Follows_3235888.txt
-Spring Breakers_2101441.txt
+While We re Young_1791682.txt
 Horrible Bosses 2_2170439.txt
 Into the Woods_2180411.txt
-Highway_0165361.txt
 Tusk_3099498.txt
-Home Alone 2 Lost in New York_0104431.txt
-Ex Machina_4601270.txt
-Bound_0115736.txt
 Pitch Perfect 2_2848292.txt
 Focus_2381941.txt
 Inside Out_2096673.txt
 Woman in Gold_2404425.txt
 Jurassic World_0369610.txt
 Testament of Youth_1441953.txt
-Victoria Abdul_5816682.txt
 Trainwreck_3152624.txt
-Taxi Driver_0075314.txt
 Pixels_2120120.txt
 Grandma_4270516.txt
-Fantastic Four_0120667.txt
+Fantastic Four_1502712.txt
+The Man from U N C L E_1638355.txt
+The End of the Tour_3416744.txt
+I ll See You in My Dreams_3236120.txt
 Straight Outta Compton_1398426.txt
 Me and Earl and the Dying Girl_2582496.txt
 Hotel Transylvania 2_2510894.txt
 American Ultra_3316948.txt
+The Martian_3659388.txt
 Sicario_3397884.txt
 Pawn Sacrifice_1596345.txt
 Crimson Peak_2554274.txt
 Bridge of Spies_3682448.txt
 Steve Jobs_2080374.txt
-Brooklyn Nine Nine 1x13 REACTION The Bet_12904524.txt
 Victor Frankenstein_1976009.txt
+The Good Dinosaur_1979388.txt
 Carol_2402927.txt
 Trumbo_3203606.txt
-Room with a View_10404922.txt
-Creed II_6343314.txt
-Krampus The Christmas Devil_2578608.txt
-Pan s Labyrinth_0457430.txt
-Hidden Figures_4846340.txt
-Point Break_0102685.txt
+Room_3170832.txt
+Creed_3076658.txt
+Star Wars Episode VII The Force Awakens_2488496.txt
+The Lobster_3464902.txt
+Mistress America_2872462.txt
+The Hateful Eight_3460252.txt
 Concussion_3322364.txt
 Joy_2446980.txt
-Macbeth_10095582.txt
-Legend_0089469.txt
-Bill Ted Face the Music_1086064.txt
+The Big Short_1596363.txt
+The Danish Girl_0810819.txt
+Anomalisa_2401878.txt
 Spotlight_1895587.txt
-Office Space_0151804.txt
+The Diary of a Teenage Girl_3172532.txt
+The Meddler_4501454.txt
 Eye in the Sky_2057392.txt
 Green Room_4062536.txt
-Max Payne_0467197.txt
-Demolition Man_0106697.txt
+The Lady in the Van_3722070.txt
+Maggie s Plan_3471098.txt
 Miles Ahead_0790770.txt
-Life Is Beautiful_0118799.txt
 Beasts of No Nation_1365050.txt
+Hail Caesar_0475290.txt
 Deadpool_1431045.txt
 Zootopia_2948356.txt
+Crouching Tiger Hidden Dragon Sword of Destiny_2652118.txt
 10 Cloverfield Lane_1179933.txt
+Batman v Superman Dawn of Justice_2975590.txt
 Hardcore Henry_3072482.txt
+The Boss_2702724.txt
+The Nice Guys_3799694.txt
 Sing Street_3544112.txt
-Ghostbusters II_0097428.txt
+The Secret Life of Pets_2709768.txt
 Lights Out_4786282.txt
 Sausage Party_1700841.txt
 Sully_3263904.txt
 Kubo and the Two Strings_4302938.txt
 Equity_3958780.txt
+The Girl on the Train_3631112.txt
 Hell or High Water_2582782.txt
 Julieta_4326444.txt
+The Accountant_2140479.txt
 Arrival_2543164.txt
 Loving_4669986.txt
 Hacksaw Ridge_2119532.txt
+Bridget Jones s Baby_1473832.txt
 Nocturnal Animals_4550098.txt
 Hidden Figures_4846340.txt
 La La Land_3783958.txt
-Sing Street_3544112.txt
 Passengers_1355644.txt
-Jackie Brown_0119396.txt
+Jackie_1619029.txt
 20th Century Women_4385888.txt
 Dangal_5074352.txt
 Fences_2671706.txt
 Manchester by the Sea_4034228.txt
 Inferno_3062096.txt
 Moonlight_4975722.txt
-Splitsville_0835410.txt
 Toni Erdmann_4048272.txt
+Mr Right_2091935.txt
 Lion_3741834.txt
+The Edge of Seventeen_1878870.txt
+The Lost City of Z_1212428.txt
+The Love Witch_3908142.txt
 Miss Sloane_4540710.txt
 Denial_4645330.txt
 Free Fire_4158096.txt
-Unaired Game of Thrones Prequel Pilot_6857128.txt
 Martyrs_1663655.txt
-Pet Sematary II_0105128.txt
+The Red Turtle_3666024.txt
 Norman_4191702.txt
 Maudie_3721954.txt
 My Big Fat Greek Wedding 2_3760922.txt
+The Birth of a Nation_4196450.txt
 A Monster Calls_3416532.txt
 Wonder Woman_0451279.txt
-Logan s Run_0074812.txt
+Logan_3315342.txt
 Get Out_5052448.txt
-Beauty and the Beast_0038348.txt
-Life Is Beautiful_0118799.txt
+Beauty and the Beast_2771200.txt
+I Don t Feel at Home in This World Anymore_5710514.txt
+Guardians of the Galaxy Vol 2_3896198.txt
+Alien Covenant_2316204.txt
+Pirates of the Caribbean Dead Men Tell No Tales_1790809.txt
 Baby Driver_3890160.txt
+The Big Sick_5462602.txt
 Atomic Blonde_2406566.txt
 War for the Planet of the Apes_3450958.txt
 Okja_3967856.txt
 Wind River_5362988.txt
+The Beguiled_5592248.txt
 Dunkirk_5013056.txt
-Detroit Rock City_0165710.txt
 Girls Trip_3564472.txt
-Naked Gun 33 1 3 The Final Insult_0110622.txt
 Death Note_1241317.txt
-It Follows_3235888.txt
+It_1396484.txt
+Mother_5109784.txt
+I Tonya_5580036.txt
 Ingrid Goes West_5962210.txt
 Happy Death Day_5308322.txt
 Battle of the Sexes_4622512.txt
 Lady Bird_4925292.txt
-Wonder Boys_0185014.txt
+Victoria Abdul_5816682.txt
+The Death of Stalin_4686844.txt
+Thor Ragnarok_3501632.txt
+The Meyerowitz Stories_5536736.txt
+The Florida Project_5649144.txt
 Coco_2380307.txt
+The Only Living Boy in New York_0460890.txt
+Molly s Game_4209788.txt
+The Babysitter_4225622.txt
+The Disaster Artist_3521126.txt
+The Shape of Water_5580390.txt
+Three Billboards Outside Ebbing Missouri_5027774.txt
 Mudbound_2396589.txt
-Bright Angel_0101510.txt
+Bright_5519340.txt
 Call Me by Your Name_5726616.txt
 All the Money in the World_5294550.txt
 Downsizing_1389072.txt
+The Greatest Showman_1485796.txt
 Phantom Thread_5776858.txt
 Darkest Hour_4555426.txt
-Paddington 2_7904114.txt
-Thelma Louise_0103074.txt
-Avatar_0499549.txt
+Roman J Israel Esq_6000478.txt
+The Killing of a Sacred Deer_5715874.txt
+The Post_6294822.txt
 You Were Never Really Here_5742374.txt
 My Friend Dahmer_2291540.txt
-Baywatch_5797522.txt
 First Reformed_6053438.txt
 Disobedience_6108178.txt
-Mary Shelley s Frankenstein_0109836.txt
+Mark Felt The Man Who Brought Down the White House_5175450.txt
+The Wife_3750872.txt
+Custody_6002232.txt
 Novitiate_4513316.txt
+Ocean s Eight_5164214.txt
 Red Sparrow_2873282.txt
 Hereditary_7784604.txt
 Black Panther_1825683.txt
@@ -1341,19 +1692,22 @@ A Quiet Place_6644200.txt
 Tully_5610554.txt
 American Animals_6212478.txt
 Eighth Grade_7014006.txt
+The Spy Who Dumped Me_6663582.txt
 BlacKkKlansman_7349662.txt
+The Meg_4779682.txt
 Crazy Rich Asians_3104988.txt
-Burning Annie_0307879.txt
 Slender Man_5690360.txt
+The Predator_3829266.txt
 A Simple Favor_7040874.txt
-A Star Is Born_0075265.txt
 Blockers_2531344.txt
-First Man on Mars_4562262.txt
-Halloween 4 The Return of Michael Myers_0095271.txt
+Halloween_1502407.txt
 Suspiria_1034415.txt
-Searching for Bobby Fischer_0108065.txt
+Searching_7668870.txt
+Spider Man Into the Spider Verse_4633694.txt
+Can You Ever Forgive Me_4595882.txt
 Hold the Dark_5057140.txt
 Aquaman_1477834.txt
+The Ballad of Buster Scruggs_6412452.txt
 Mid90s_5613484.txt
 Green Book_6966692.txt
 Creed II_6343314.txt
@@ -1362,89 +1716,67 @@ Roma_6155172.txt
 Mary Queen of Scots_2328900.txt
 Bird Box_2737304.txt
 Mary Poppins Returns_5028340.txt
+The Old Man the Gun_2837574.txt
 On the Basis of Sex_4669788.txt
 If Beale Street Could Talk_7125860.txt
+The Sisters Brothers_4971344.txt
+Stan Ollie_3385524.txt
 Assassination Nation_6205872.txt
 Vox Lux_5960374.txt
-Robin Hood Prince of Thieves_0102798.txt
-You Came Along_0038263.txt
+Robin Hood_4532826.txt
+The Front Runner_7074886.txt
+Den of Thieves_1259528.txt
 Boy Erased_7008872.txt
 Bad Times at the El Royale_6628394.txt
 Second Act_2126357.txt
 Capernaum_8267604.txt
 Upgrade_6499752.txt
-Anonymous_1521197.txt
 Life Itself_5989218.txt
 Overlord_4530422.txt
-Freaks_0022913.txt
-Queen Slim_8722346.txt
-Close Encounters of the Third Kind_0075860.txt
-Serenity_0379786.txt
 Us_6857112.txt
 Fighting with My Family_6513120.txt
 Triple Frontier_1488606.txt
+Avengers Endgame_4154796.txt
 Booksmart_1489887.txt
-Aladdin_0103639.txt
-MacGruber_1470023.txt
 Brightburn_7752126.txt
+Parasite_6751668.txt
 Midsommar_8772262.txt
-Anna Karenina_1781769.txt
+The Lion King_6105098.txt
 Crawl_8364368.txt
-Pet Sematary II_0105128.txt
+The Farewell_8637428.txt
+Pet Sematary_0837563.txt
 Ad Astra_2935510.txt
 Lucy in the Sky_4682804.txt
 Joker_7286456.txt
-Downton Abbey_1606375.txt
 Scary Stories to Tell in the Dark_3387520.txt
 Hustlers_5503686.txt
-After Earth_1815862.txt
 Harriet_4648786.txt
 Marriage Story_7653254.txt
+The Lighthouse_7984734.txt
 Jojo Rabbit_2584384.txt
 Midway_6924650.txt
 Knives Out_8946378.txt
 Motherless Brooklyn_0385887.txt
 A Beautiful Day in the Neighborhood_3224458.txt
+Queen Slim_8722346.txt
 Doctor Sleep_5606664.txt
+The Irishman_1302006.txt
 Her Smell_7942742.txt
 Little Women_3281548.txt
+The Aeronauts_6141246.txt
+The Two Popes_8404614.txt
 1917_8579674.txt
 Just Mercy_4916630.txt
+Under the Silver Lake_5691670.txt
 Frankie_8019694.txt
 Richard Jewell_3513548.txt
-Maria Full of Grace_0390221.txt
+The Peanut Butter Falcon_4364194.txt
 After the Wedding_7985692.txt
+Waves_8652728.txt
 Honey Boy_8151874.txt
-Scooby Doo_0267913.txt
+Bad Boys for Life_1502397.txt
 Palm Springs_9484998.txt
 Tenet_6723592.txt
-Mulan_0120762.txt
-Hostage_0340163.txt
-Breach_0401997.txt
-Runaway Bride_0163187.txt
-Infamous_0420609.txt
-Breathe_5716464.txt
-Avatar_0499549.txt
-Limbo_0164085.txt
-Cherry Falls_0175526.txt
-Inside Llewyn Davis_2042568.txt
-Oldboy_0364569.txt
-Dune_0087182.txt
-Kate Leopold_0035423.txt
-Bull Durham_0094812.txt
-Frances Ha_2347569.txt
+Bill Ted Face the Music_1086064.txt
+Cherry_9130508.txt
 Chaos Walking_2076822.txt
-Scream 2_0120082.txt
-Men in Black 3_1409024.txt
-X Men Origins Wolverine_0458525.txt
-Pearl Harbor_0213149.txt
-Tarzan s Secret Treasure_0034266.txt
-Willow_0096446.txt
-Fallen Angels_0112913.txt
-Close Encounters of the Third Kind_0075860.txt
-Missing_0084335.txt
-Air Force One_0118571.txt
-Reality Bites_0110950.txt
-Mean Girls_0377092.txt
-Damsels in Distress_1667307.txt
-Dunkirk_5013056.txt

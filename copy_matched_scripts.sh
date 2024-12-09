@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Create the destination folder if it doesn't exist
-mkdir -p matched_scripts
+mkdir -p data/matched_scripts
 
 # Path to the text file with the matched script titles
-input_file="matched_script_titles.txt"
+input_file="data/matched_script_titles.txt"
 
 # Path to the folder containing the original scripts
-source_folder="raw_texts"
+source_folder="data/1/screenplay_data/data/raw_texts/raw_texts"
 
 # Loop through each script name in the text file
 while IFS= read -r script; do
@@ -17,7 +17,7 @@ while IFS= read -r script; do
     # Check if the file exists in the source folder
     if [ -f "$source_path" ]; then
         # Copy the file to the matched_scripts folder
-        cp "$source_path" matched_scripts/
+        cp "$source_path" data/matched_scripts/
         echo "Copied $script to matched_scripts/"
     else
         echo "File not found: $script"
