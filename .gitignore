@@ -17,3 +17,7 @@ old_stuff
 
 
 1_data_acquisition/.kaggle/kaggle.json
+
+2_preprocessing/test_embedded.csv
+2_preprocessing/train_embedded.csv
+2_preprocessing/validation_embedded.csv
