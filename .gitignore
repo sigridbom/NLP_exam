@@ -21,3 +21,7 @@ old_stuff
 2_preprocessing/test_embedded.csv
 2_preprocessing/train_embedded.csv
 2_preprocessing/validation_embedded.csv
+
+2_preprocessing/test.csv
+2_preprocessing/train.csv
+2_preprocessing/validation.csv
