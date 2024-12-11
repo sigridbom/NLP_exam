@@ -25,3 +25,7 @@ old_stuff
 2_preprocessing/test.csv
 2_preprocessing/train.csv
 2_preprocessing/validation.csv
+
+2_preprocessing/distilbert_bechdel_classifier
+
+3_model_selection/distilbert_bechdel_classifier
