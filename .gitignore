@@ -22,9 +22,13 @@ old_stuff
 2_preprocessing/train_embedded.csv
 2_preprocessing/validation_embedded.csv
 
-2_preprocessing/test.csv
-2_preprocessing/train.csv
-2_preprocessing/validation.csv
+2_preprocessing/test_case_sensitive.csv
+2_preprocessing/train_case_sensitive.csv
+2_preprocessing/validation_case_sensitive.csv
+
+2_preprocessing/test_lowercase.csv
+2_preprocessing/train_lowercase.csv
+2_preprocessing/validation_lowercase.csv
 
 2_preprocessing/distilbert_bechdel_classifier
 
