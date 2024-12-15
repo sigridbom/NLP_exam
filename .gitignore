@@ -34,3 +34,5 @@ old_stuff
 
 3_model_selection/distilbert_bechdel_classifier
 3_model_selection/model_performances.txt
+
+3_model_selection/results/
