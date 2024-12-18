@@ -33,6 +33,6 @@ One model can be found in the /output/models/ folder, and others can be found in
 - Models on GitHub include: the model object after the randomized cross-validation search.
 -->
 
-#### References
+### References
 
 KseniaGur (n.d.), Movie Scripts Corpus [Data set]. Retrieved December 7, 2024 from https://www.kaggle.com/datasets/gufukuro/movie-scripts-corpus/data 
