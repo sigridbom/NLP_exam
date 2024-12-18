@@ -9,21 +9,21 @@ The analysis was done in Visual Studio Code using Python version 3.12.3 on the U
 ### Structure of the repository
 The different steps of the analysis are numbered, and they are supposed to be run in that order. Within each folder, either one or several scripts and notebooks can be found.
 
-- 1\) data acquisition: Obtaining the data by merging two different datasets (one with labels, one with movie scripts) by their IMDb ID.
-- 2\) data preprocessing: Cleaning the scripts from special characters, etc.
-- 3\) model selection: Running different models (from a baseline model to a more advanced pretrained model) and comparing them. 
+- 1\) __Data acquisition__: Obtaining the data by merging two different datasets (one with labels, one with movie scripts) by their IMDb ID.
+- 2\) __Data preprocessing__: Cleaning the scripts from special characters, etc.
+- 3\) __Model selection__: Running different models (from a baseline model to a more advanced pretrained model) and comparing them. 
 
 ### Data
-The final dataset is a merge of a dataset containing Bechdel-Wallace labels movies and a dataset containing movie scripts (KseniaGur, n.d.). 
+The final dataset is a merge of a dataset containing Bechdel-Wallace labels movies and a dataset containing movie scripts (KseniaGur, n.d.).
 
-The dataset with Bechdel-Wallace labels is scraped from the website: https://bechdeltest.com/
-The dataset with movie scripts is from Kaggle [KseniaGur (n.d.)](https://www.kaggle.com/datasets/gufukuro/movie-scripts-corpus/data).
+The dataset with __Bechdel-Wallace labels__ is scraped from the website: https://bechdeltest.com/
+The dataset with __movie scripts__ is from Kaggle [KseniaGur (n.d.)](https://www.kaggle.com/datasets/gufukuro/movie-scripts-corpus/data).
 
 The final dataset is too big to be uploaded directly to GitHub. You can either run the scripts and get the data yourself, or you can download the different datasets from this [Google drive folder](https://drive.google.com/drive/folders/1vjT8pLPALMHdgPpkmojj3YzrFzOOz-GI?usp=sharing)
 
-The datasets which can be found in the google drive folder include the final dataset with labels and scripts, the dataset with Bechdel-Wallace labels, and the different train, validation and test datasets (one set is case senstive, one is lowercase).
+The datasets which can be found in the Google drive folder include the final dataset with labels and scripts, the dataset with Bechdel-Wallace labels, and the different train, validation and test datasets (one set is case senstive, one is lowercase).
 
-To use Kaggle's API, you need to have a Kaggle user and a key, which is should be located in NLP_exam/1_data_acquisition/.kaggle/kaggle.json 
+__To use Kaggle's API__, you need to have a Kaggle user and a key, which is should be located in NLP_exam/1_data_acquisition/.kaggle/kaggle.json 
 The kaggle.json file includes your username and a key, and it is downloaded automatically when created. Read more about it [here](https://www.kaggle.com/docs/api).
 
 <!--
