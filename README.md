@@ -17,7 +17,7 @@ The different steps of the analysis are numbered, and they are supposed to be ru
 The final dataset is a merge of a dataset containing Bechdel-Wallace labels movies and a dataset containing movie scripts (KseniaGur, n.d.). 
 
 The dataset with Bechdel-Wallace labels is scraped from the website: https://bechdeltest.com/
-The dataset with movie scripts is from Kaggle https://www.kaggle.com/datasets/gufukuro/movie-scripts-corpus/data (KseniaGur, n.d.).
+The dataset with movie scripts is from Kaggle [KseniaGur, n.d.]. (https://www.kaggle.com/datasets/gufukuro/movie-scripts-corpus/data)
 
 The final dataset is too big to be uploaded directly to GitHub. You can either run the scripts and get the data yourself, or you can download the different datasets from this google drive folder: https://drive.google.com/drive/folders/1vjT8pLPALMHdgPpkmojj3YzrFzOOz-GI?usp=sharing
 
