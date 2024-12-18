@@ -9,9 +9,9 @@ The analysis was done in Visual Studio Code using Python version 3.12.3 on the U
 ### Structure of the repository
 The different steps of the analysis are numbered, and they are supposed to be run in that order. Within each folder, either one or several scripts and notebooks can be found.
 
-- 1) data acquisition: Obtaining the data by merging two different datasets (one with labels, one with movie scripts) by their IMDb ID.
-- 2) data preprocessing: Cleaning the scripts from special characters, etc.
-- 3) model selection: Running different models (from a baseline model to a more advanced pretrained model) and comparing them. 
+- 1\) data acquisition: Obtaining the data by merging two different datasets (one with labels, one with movie scripts) by their IMDb ID.
+- 2\) data preprocessing: Cleaning the scripts from special characters, etc.
+- 3\) model selection: Running different models (from a baseline model to a more advanced pretrained model) and comparing them. 
 
 ### Data
 The final dataset is a merge of a dataset containing Bechdel-Wallace labels movies and a dataset containing movie scripts (KseniaGur, n.d.). 
