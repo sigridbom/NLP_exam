@@ -35,5 +35,8 @@ old_stuff
 
 3_model_selection/distilbert_bechdel_classifier
 3_model_selection/model_performances.txt
+3_model_selection/output/models/BoW_svc.pkl
+3_model_selection/output/models/BoW_log_reg_elasticnet_saga.pkl
+3_model_selection/output/models/BoW_random_forest.pkl
 
 3_model_selection/results/
