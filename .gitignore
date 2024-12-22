@@ -39,5 +39,7 @@ old_stuff
 3_model_selection/output/models/BoW_log_reg_elasticnet_saga.pkl
 3_model_selection/output/models/BoW_random_forest.pkl
 3_model_selection/output/models/tf_idf_svc.pkl
+3_model_selection/output/models/*
+3_model_selection/fine_tuned_distilroberta
 
 3_model_selection/results/
