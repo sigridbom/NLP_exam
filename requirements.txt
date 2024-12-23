@@ -7,3 +7,8 @@ sentence_transformers
 wordcloud
 ipykernel
 kagglehub
+datasets
+transformers[torch]
+evaluate
+transformers 
+
