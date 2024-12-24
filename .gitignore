@@ -43,3 +43,5 @@ old_stuff
 3_model_selection/fine_tuned_distilroberta
 
 3_model_selection/results/
+
+3_model_selection/env_shap

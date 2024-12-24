@@ -1,9 +1,15 @@
 pandas
 matplotlib
-numpy
+#numpy
+numpy==2.0
 seaborn
 scikit-learn 
 sentence_transformers
 wordcloud
-ipykernel
+#ipykernel
 kagglehub
+datasets
+transformers[torch]
+evaluate
+transformers 
+
