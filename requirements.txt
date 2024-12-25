@@ -1,7 +1,7 @@
 pandas
 matplotlib
 #numpy
-numpy==2.0
+#numpy==2.0
 seaborn
 scikit-learn 
 sentence_transformers
