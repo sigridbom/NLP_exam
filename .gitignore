@@ -45,3 +45,7 @@ old_stuff
 3_model_selection/results/
 
 3_model_selection/env_shap
+
+3_model_selection/output/figures/distilroberta_train_val_confusion_matrix.jpeg
+3_model_selection/output/figures/distilroberta_train_cv_confusion_matrix.jpeg
+3_model_selection/output/performances_v3.csv
