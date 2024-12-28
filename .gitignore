@@ -15,6 +15,8 @@ bechdel_labels_old.ipynb
 
 old_stuff
 
+figures/without_removing_stopwords
+
 
 1_data_acquisition/.kaggle/kaggle.json
 
@@ -45,6 +47,7 @@ old_stuff
 3_model_selection/results/
 
 3_model_selection/env_shap
+3_model_selection/env_shap2
 
 3_model_selection/output/figures/distilroberta_train_val_confusion_matrix.jpeg
 3_model_selection/output/figures/distilroberta_train_cv_confusion_matrix.jpeg
@@ -52,3 +55,9 @@ old_stuff
 3_model_selection/output/performances_old.csv
 3_model_selection/distilroberta_old_code.ipynb
 3_model_selection/output/figures/old_plots
+3_model_selection/output/figures/figures_stopwords_not_removed
+
+
+3_model_selection/output/models/models_stopwords_not_removed
+3_model_selection/output/old_performance_df
+3_model_selection/BoW_and_tf_idf_without_removing_stopwords.ipynb
