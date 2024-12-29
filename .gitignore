@@ -61,3 +61,7 @@ figures/without_removing_stopwords
 3_model_selection/output/models/models_stopwords_not_removed
 3_model_selection/output/old_performance_df
 3_model_selection/BoW_and_tf_idf_without_removing_stopwords.ipynb
+
+3_model_selection/output/longformer_noprompt_evaluation_copy.csv
+3_model_selection/output/longformer_prompt_evaluation_copy.csv
+
